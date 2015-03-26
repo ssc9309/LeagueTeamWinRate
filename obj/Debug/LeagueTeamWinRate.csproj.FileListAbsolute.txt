@@ -1,0 +1,9 @@
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\bin\Debug\LeagueTeamWinRate.exe.config
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\bin\Debug\LeagueTeamWinRate.exe
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\bin\Debug\LeagueTeamWinRate.pdb
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.csprojResolveAssemblyReference.cache
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.Form1.resources
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.Properties.Resources.resources
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.csproj.GenerateResource.Cache
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.exe
+C:\Users\Hank\Documents\GitHub\LeagueTeamWinRate\LeagueTeamWinRate\obj\Debug\LeagueTeamWinRate.pdb
